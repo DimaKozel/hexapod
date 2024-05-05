@@ -1,0 +1,10 @@
+- raspberry pi running node to controll a robot
+    https://github.com/wdmartins/pi-robot-car
+    https://medium.com/swlh/raspberry-pi-robot-car-controlled-by-node-js-3d9c27c5b16f
+
+- Design, Analysis and Experiments of Hexapod Robot with Six-Link Legs for High Dynamic Locomotion
+    a paper describing 12 servo solution in detail, have all the math
+    https://www.mdpi.com/2072-666X/13/9/1404
+
+
+    
