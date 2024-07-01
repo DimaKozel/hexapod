@@ -1,0 +1,21 @@
+{
+  "name": "lcdtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "i2c-bus": "^5.2.3",
+    "oled-font-pack": "^1.0.1",
+    "oled-rpi-i2c-bus": "^1.1.4"
+  },
+  "devDependencies": {
+    "@types/i2c-bus": "^5.1.2",
+    "@types/node": "^20.14.7",
+    "typescript": "^5.5.2"
+  }
+}
